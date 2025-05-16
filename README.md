@@ -1,0 +1,1 @@
+# aegisub_split_script
