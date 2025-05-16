@@ -1,7 +1,5 @@
 # Aegisub Automatic Line Break Script
 
-**Version:** 1.7 (as of the last script version provided)
-
 ## Description
 
 This Lua script for Aegisub automates the process of adding line breaks (`\N`) to subtitle lines. It aims to keep lines at a specified maximum character length (defaulting to 30 visible characters) without splitting words. The script intelligently ignores Aegisub's formatting tags (e.g., `{\b1}`, `{\fad(100,200)}`) when counting characters to determine line length.
